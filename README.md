@@ -1,3 +1,3 @@
-## 介绍
+## Description
 
-这是一个用简单的用python写的单用户博客
+this is a simple single user blog writed by python
