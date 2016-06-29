@@ -1,3 +1,3 @@
 ## Description
 
-this is a simple single user blog writed by python
+this is a simple single user blog written in python
